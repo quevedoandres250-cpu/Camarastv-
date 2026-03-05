@@ -89,6 +89,6 @@ footer{background:#020617;text-align:center;padding:30px;margin-top:40px}
 </div>
 </section><footer id="contacto">
 <p>© 2026 CreatorCam Store</p>
-<p>Email: ventas@creatorcam.com</p>
+<p>Email: quevedoandres250@gmail.com</p>
 </footer></body>
 </html>
